@@ -16,7 +16,7 @@ Focado em transformar lógica de programação em sistemas robustos e eficientes
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,tailwind,postgres,supabase,git,github&perline=10" alt="Minhas Skills" />
 </div>
 
-<br>
+---
 
 ### 🤝 Conecte-se comigo
 <p align="left">
