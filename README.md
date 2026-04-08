@@ -1,6 +1,6 @@
 # Olá! Sou o Renan Serafim 👋
 
-### Desenvolvedor Full-Stack | Estudante de Sistemas de Informação na FIAP
+### Desenvolvedor de Sistemas | Estudante de Sistemas de Informação na FIAP
 
 Focado em transformar lógica de programação em sistemas robustos e eficientes. Atuo na construção de APIs seguras e na prototipagem de interfaces modernas, utilizando Inteligência Artificial de forma estratégica para acelerar o ciclo de desenvolvimento e otimizar a arquitetura de software.
 
