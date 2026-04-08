@@ -18,14 +18,6 @@ Focado em transformar lógica de programação em sistemas robustos e eficientes
 
 <br>
 
-### 📊 Minhas Estatísticas no GitHub
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RenanSerafim01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=0ea5e9&text_color=ffffff" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSerafim01&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=0ea5e9&text_color=ffffff" alt="Linguagens mais usadas" />
-</div>
-
-<br>
-
 ### 🤝 Conecte-se comigo
 <p align="left">
   <a href="https://www.linkedin.com/in/renanserafim/" target="_blank">
